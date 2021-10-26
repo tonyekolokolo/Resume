@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>My First HTML Document</title>
+</head>
+<body>
+	<p>Hello World!</p>
+	<h1>1</h1>
+	<h2>2</h2>
+	<h3>3</h3>
+	<h4>4</h4>
+	<h5>5</h5>
+	<h6>6</h6>
+	<img src="bicycle.jpg" width="360" height="360">
+    <a href="http://www.walmart.com">walmart</a>
+	
+<ul>
+	<li>PC</li>
+	<li>Xbox</li>
+	<li>WeakStation</li>
+</ul>
+
+<ol>
+	<li>PC</li>
+	<li>Xbox</li>
+	<li>WeakStation</li>
+</ol>
+	
+</body>
+</html>
+
+<table>
+	<tr>
+		<th>Firstname</th>
+		<th>Lastname</th>
+		<th>Age</th>
+	</tr>
+	<tr>
+		<td>Jill</td>
+		<td>Smith</td>
+		<td>50</td>
+	</tr>
+	<tr>
+		<td>Eve</td>
+		<td>Jackson</td>
+		<td>94</td>
+	</tr>
+</table>
