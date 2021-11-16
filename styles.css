@@ -1,0 +1,39 @@
+section {
+    background-color:#89CFF0;
+    
+    margin: 20%;
+    margin-top:5%;
+    margin-bottom: 0;
+    padding:5%;
+   
+
+}
+
+body {
+    background-color:DodgerBlue;
+
+}
+
+.pic {
+    float: left;
+    width:180px;
+    height:200px;
+    margin-right: 10px;
+    
+}
+
+.top {
+    padding-left: 10px;
+    margin: 10px;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.topSection {
+    height: 300px;
+    
+}
+
+.target {
+    margin-left: 15px;
+}
